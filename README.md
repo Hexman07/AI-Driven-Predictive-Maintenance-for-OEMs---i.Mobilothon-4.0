@@ -25,7 +25,7 @@ We use the `RandomForestRegressor`, known for its accuracy in regression tasks, 
 
 ### Dashboard GIF
 Below is a GIF demonstrating the functionality of our advanced analytics dashboard:
-![Dashboard GIF](/path/to/your/gif/dashboard.gif)
+![Dashboard GIF](dashboards/dashboard.mp4)
 
 Our dashboard visualizes predictive results and real-time data, aiding operational decisions in the OEM environment.
 
