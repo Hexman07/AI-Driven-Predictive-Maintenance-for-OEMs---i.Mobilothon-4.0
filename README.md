@@ -38,9 +38,6 @@ Our dashboard visualizes predictive results and real-time data, aiding operation
 - `src/`: Source code for the predictive model.
 - `dashboards/`: Script for the analytics dashboard.
 
-## Usage
-
-To interact with the predictive model and dashboard, open the `Predictive_Maintenance_Modeling.ipynb` in the `notebooks/` directory and run the `efficiency_dashboard.py` in the `dashboards/` directory.
 
 ## Contributions
 
