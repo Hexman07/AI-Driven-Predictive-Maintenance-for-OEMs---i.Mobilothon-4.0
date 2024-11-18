@@ -34,8 +34,7 @@ Our dashboard visualizes predictive results and real-time data, aiding operation
 
 
 - `data/`: Contains the simulated dataset.
-- `notebooks/`: Jupyter notebook for model training and exploration.
-- `src/`: Source code for the predictive model.
+- `notebooks/`: Jupyter notebook for model training and exploration, Source code for the predictive model.
 - `dashboards/`: Script for the analytics dashboard.
 
 
